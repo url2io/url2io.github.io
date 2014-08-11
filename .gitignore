@@ -1,1 +1,18 @@
-_site/
+#jekyll
+_site/*
+assets/photo/*
+assets/css/icomoon/*
+
+# vim.gitignore
+*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# linux.gitignore
+.*
+!.gitignore
+
+# python.gitignore
+*.py[cod]
