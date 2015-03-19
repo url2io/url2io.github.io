@@ -1,4 +1,4 @@
 url2io.github.io
 ================
 
-blog for url2io.com
+blog for [URL2io](http://www.url2io.com)
