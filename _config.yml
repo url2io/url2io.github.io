@@ -8,7 +8,7 @@ permalink: /:categories/:title
 excerpt_separator: <!--more-->
 
 # global vars
-title: URL2io
+title: "The URL2io Blog"
 url: blog.url2io.com
 
 # components
