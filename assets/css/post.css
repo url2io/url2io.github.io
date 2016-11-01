@@ -1,4 +1,7 @@
 body {
+  background: url("/assets/img/bg.jpg") repeat-x;
+  background-size: cover;
+  background-attachment: fixed;
   margin: 0px;
 }
 .header {
@@ -24,6 +27,7 @@ body {
   background: #d1d0c8
 }
 .container {
+  background-color: #f3f3f3;
   padding: 20px;
   margin-right: auto;
   margin-left: auto;
