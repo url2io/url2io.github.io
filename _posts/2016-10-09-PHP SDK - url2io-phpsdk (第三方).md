@@ -8,13 +8,15 @@ tags: SDK PHP
 
 [![Build Status](https://travis-ci.org/ety001/url2io.svg?branch=master)](https://travis-ci.org/ety001/url2io)
 
-[url2io-phpsdk](https://packagist.org/packages/ety001/url2io-phpsdk) 是一个第三方的 PHP SDK，由 [ety001](http://www.domyself.me/) 实现。
+[url2io-phpsdk](https://packagist.org/packages/ety001/url2io-phpsdk) 是一个第三方的 URL2io PHP SDK，由 [ety001](http://www.domyself.me/) 实现，十分感谢！
 
 <!--more-->
+> URL2io 提供简单，强大的网页信息提取服务。所有服务都以 RESTful API 接口的形式提供，用于 Web 内容的结构化处理。其中 URL2Article 用来提取并解析网页中的正文区域，实现网页正文提取、标题提取、发布日期提取、下一页链接提取等。
+
 
 ### 1. URL2io 官网文档
 
-<http://www.url2io.com/docs>
+相关 RESTful API 的细节请参考 <http://www.url2io.com/docs>
 
 ### 2. 使用说明
 
