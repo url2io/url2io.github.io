@@ -6,7 +6,7 @@ tags: Python NodeJS PHP Ruby Curl
 
 ---
 
-花 20 秒钟就可以了解如何在 Pyhton、NodeJS、PHP、Ruby、Curl 中开始使用。
+花 20 秒钟就可以了解如何在 Pyhton、NodeJS、PHP、Ruby、Curl 中对网页进行正文提取、标题提取、日期提取、下一页链接提取。
 
 <!--more-->
 

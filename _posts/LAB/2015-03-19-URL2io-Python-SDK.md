@@ -1,6 +1,6 @@
 ---
 layout: post
-title: URL2io Python SDK发布（及教程）
+title: Python SDK（及教程）发布
 category: lab
 tags: SDK Python
 

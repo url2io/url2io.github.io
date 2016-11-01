@@ -26,6 +26,8 @@ composer require ety001/url2io-phpsdk
 
 #### 在项目中使用
 
+使用PHP进行对网页进行正文提取：
+
 ```
 <?php
 use ETY001\URL2io\URL2io;             // 使用上述 SDK
