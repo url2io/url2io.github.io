@@ -12,7 +12,7 @@ tags: url2article product mirror
 
 <!--more-->
 
-<img src="https://i.v2ex.co/ugSx428I.png" width=300px>
+![](https://i.v2ex.co/ugSx428I.png){:width="300px"}
 
 ### 产品套餐
 
