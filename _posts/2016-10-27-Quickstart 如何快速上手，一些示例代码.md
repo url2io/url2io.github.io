@@ -28,7 +28,7 @@ $ curl -G --data "token=your_token&fields=next" --data-urlencode "url=http://...
 
 ```python
 # 也可以使用 SDK
-# https://github.com/url2io/url2io-python-sdk
+# https://github.com/url2io/url2io-python-client
 
 >>> import requests
 >>> from urllib import urlencode
