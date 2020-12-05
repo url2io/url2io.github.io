@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何使用swagger-codegen生成各种语言的URL2io API客户端.md
+title: 如何使用 Swagger Codegen 生成各种语言的 URL2io API 客户端
 category: news
 tags: url2io-python-client sdk swagger-codegen
 
@@ -14,13 +14,13 @@ URL2io提供了强大的智能信息处理服务，包括**URL2Article** 可以�
 
 
 
-面对这种情况，我们可以使用[Swagger-codegen](https://github.com/swagger-api/swagger-codegen) 来自动生成30多个不同语言的SDK。当前URL2io提供了所有Rest API的[描述文件](https://github.com/url2io/url2io-python-client/blob/master/etc/services-url2io-api.yaml)，基于Swagger2.0。当前官方的 [url2io-python-client](https://github.com/url2io/url2io-python-client) 就是基于该描述文件生成的，下面以 url2io-python-client为例说明如何利用swagger-codegen来生成SDK代码。
+面对这种情况，我们可以使用[Swagger Codegen](https://github.com/swagger-api/swagger-codegen) 来自动生成30多个不同语言的SDK。当前URL2io提供了所有Rest API的[描述文件](https://github.com/url2io/url2io-python-client/blob/master/etc/services-url2io-api.yaml)，基于Swagger2.0。当前官方的 [url2io-python-client](https://github.com/url2io/url2io-python-client) 就是基于该描述文件生成的，下面以 url2io-python-client为例说明如何利用swagger-codegen来生成SDK代码。
 
 ![image-20201206013737566](/assets/img/services-url2io-api.yaml.png)
 
 
 
-当前swagger-codegen支持生成以下语言的SDK
+当前Swagger Codegen支持生成以下语言的SDK
 
 >  **ActionScript**, **Ada**, **Apex**, **Bash**, **C#** (.net 2.0, 3.5 or later), **C++**(cpprest, Qt5, Tizen), **Clojure**, **Dart**, **Elixir**, **Elm**, **Eiffel**, **Erlang**, **Go**, **Groovy**, **Haskell** (http-client, Servant), **Java** (Jersey1.x, Jersey2.x, OkHttp, Retrofit1.x, Retrofit2.x, Feign, RestTemplate, RESTEasy, Vertx, Google API Client Library for Java, Rest-assured), **Kotlin**, **Lua**, **Node.js** (ES5, ES6, AngularJS with Google Closure Compiler annotations) **Objective-C**, **Perl**, **PHP**, **PowerShell**, **Python**, **R**, **Ruby**, **Rust** (rust, rust-server), **Scala** (akka, http4s, swagger-async-httpclient), **Swift** (2.x, 3.x, 4.x, 5.x), **Typescript** (Angular1.x, Angular2.x, Fetch, jQuery, Node)
 
