@@ -8,6 +8,8 @@
 今天给大家分享的是一个网页正文提取服务 [URL2Article][url2article] ，主页地址：[http://www.url2io.com][home]
 > **URL2Article** 服务提供 **RESTful API** 接口，用来提取并解析网页中的正文区域，实现网页正文提取、标题提取、发布日期提取、下一页链接提取等。
 
+<!--more-->
+
 ## **功能列表**
 
 ![features](https://i.v2ex.co/d073pq0c.png)
